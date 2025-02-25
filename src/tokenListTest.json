@@ -1,0 +1,16 @@
+[
+  {
+    "ticker": "MYST",
+    "img": "https://cdn.moralis.io/eth/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd.png",
+    "name": "MYS Token",
+    "address": "0x61D6e72B6B337Fc9dfe6710059cF917826695ADD",
+    "decimals": 18
+  },
+  {
+    "ticker": "SYT",
+    "img": "https://cdn.moralis.io/eth/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "name": "SY Token",
+    "address": "0x1ED297EB63eaa72B4f9B2d22D5578c2c0DA05CcE",
+    "decimals": 18
+}
+]
